@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "questionTag": "Car",
+      "questionSoundFile": "car.mp3",
+      "myCategory": "Vehicles",
+      "answers": [
+        {
+          "ans":"train",
+          "ansPic":"train.jpg",
+          "ansSound":"train.mp3",
+          "isCorrect":"false"
+        },
+        {
+          "ans":"ship",
+          "ansPic":"ship.jpg",
+          "ansSound":"ship.mp3",
+          "isCorrect":"false"
+        },
+        {
+          "ans":"car",
+          "ansPic":"car.png",
+          "ansSound":"car.mp3",
+          "isCorrect":"true"
+        }
+
+      ]
+
+
+    },
+    {
+      "questionTag": "Bus",
+      "questionSoundFile": "bus.mp3",
+      "myCategory": "Vehicles",
+      "answers": [
+        {
+          "ans":"bus",
+          "ansPic":"bus.jpg",
+          "ansSound":"bus.mp3",
+          "isCorrect":"true"
+        },
+        {
+          "ans":"ship",
+          "ansPic":"ship.jpg",
+          "ansSound":"ship.mp3",
+          "isCorrect":"false"
+        },
+        {
+          "ans":"car",
+          "ansPic":"car.png",
+          "ansSound":"car.mp3",
+          "isCorrect":"false"
+        }
+
+      ]
+
+
+    }
+  ]
+}
