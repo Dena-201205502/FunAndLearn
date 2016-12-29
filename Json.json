@@ -1,0 +1,73 @@
+{
+  "questions": [
+    {
+      "questionTag": "Car",
+      "questionSoundFile": "car.mp3",
+      "myCategory": "Vehicles",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/car.mp3",
+      "answers": [
+        {
+          "ans":"train",
+          "ansPic":"train.jpg",
+          "ansSound":"train.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/train.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/train.jpg"
+        },
+        {
+          "ans":"ship",
+          "ansPic":"ship.jpg",
+          "ansSound":"ship.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/ship.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/ship.jpg"
+        },
+        {
+          "ans":"car",
+          "ansPic":"car.png",
+          "ansSound":"car.mp3",
+          "isCorrect":"true",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/car.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/car.png"
+        }
+
+      ]
+
+
+    },
+    {
+      "questionTag": "Bus",
+      "questionSoundFile": "bus.mp3",
+      "myCategory": "Vehicles",
+      "answers": [
+        {
+          "ans":"bus",
+          "ansPic":"bus.jpg",
+          "ansSound":"bus.mp3",
+          "isCorrect":"true",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/bus.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/bus.jpg"
+        },
+        {
+          "ans":"ship",
+          "ansPic":"ship.jpg",
+          "ansSound":"ship.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/ship.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/ship.jpg"
+        },
+        {
+          "ans":"car",
+          "ansPic":"car.png",
+          "ansSound":"car.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/car.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/car.png"
+        }
+
+      ]
+
+
+    }
+  ]
+}
