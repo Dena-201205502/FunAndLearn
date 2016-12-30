@@ -147,11 +147,11 @@
       "answers": [
         {
           "ans":"bear",
-          "ansPic":"bear.jpg",
+          "ansPic":"bear.gif",
           "ansSound":"bear.mp3",
           "isCorrect":"true",
           "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/bear.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/bear.jpg"
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/bear.gif"
         },
         {
           "ans":"cat",
@@ -163,11 +163,11 @@
         },
         {
           "ans":"monkey",
-          "ansPic":"monkey.png",
+          "ansPic":"monkey.jpg",
           "ansSound":"monkey.mp3",
           "isCorrect":"false",
           "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/monkey.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/monkey.png"
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/animals/monkey.jpg"
         }
 
       ]
