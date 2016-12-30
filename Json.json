@@ -75,31 +75,31 @@
       "questionTag": "a",
       "questionSoundFile": "a.mp3",
       "myCategory": "ABC",
-      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.mp3",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/a.mp3",
       "answers": [
         {
           "ans":"a",
           "ansPic":"a.jpg",
           "ansSound":"a.mp3",
           "isCorrect":"true",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.jpg"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/a.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/a.jpg"
         },
         {
           "ans":"b",
           "ansPic":"b.jpg",
           "ansSound":"b.mp3",
           "isCorrect":"false",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/b.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/b.jpg"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/b.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/b.jpg"
         },
         {
           "ans":"d",
           "ansPic":"d.png",
           "ansSound":"d.mp3",
           "isCorrect":"false",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/d.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/d.png"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/d.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/abc/d.png"
         }
 
       ]
