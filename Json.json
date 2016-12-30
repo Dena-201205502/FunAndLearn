@@ -70,5 +70,110 @@
 
 
     }
+    ,
+    {
+      "questionTag": "a",
+      "questionSoundFile": "a.mp3",
+      "myCategory": "ABC",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.mp3",
+      "answers": [
+        {
+          "ans":"a",
+          "ansPic":"a.jpg",
+          "ansSound":"a.mp3",
+          "isCorrect":"true",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/a.jpg"
+        },
+        {
+          "ans":"b",
+          "ansPic":"b.jpg",
+          "ansSound":"b.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/b.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/b.jpg"
+        },
+        {
+          "ans":"d",
+          "ansPic":"d.png",
+          "ansSound":"d.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/d.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/ABC/d.png"
+        }
+
+      ]
+
+
+    }, {
+      "questionTag": "red",
+      "questionSoundFile": "red.mp3",
+      "myCategory": "Colors",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/red.mp3",
+      "answers": [
+        {
+          "ans":"red",
+          "ansPic":"red.jpg",
+          "ansSound":"red.mp3",
+          "isCorrect":"true",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/red.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/red.jpg"
+        },
+        {
+          "ans":"blue",
+          "ansPic":"blue.jpg",
+          "ansSound":"blue.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/blue.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/blue.jpg"
+        },
+        {
+          "ans":"yellow",
+          "ansPic":"yellow.png",
+          "ansSound":"yellow.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/yellow.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Colors/yellow.png"
+        }
+
+      ]
+
+
+    }, {
+      "questionTag": "bear",
+      "questionSoundFile": "bear.mp3",
+      "myCategory": "Animals",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/bear.mp3",
+      "answers": [
+        {
+          "ans":"bear",
+          "ansPic":"bear.jpg",
+          "ansSound":"bear.mp3",
+          "isCorrect":"true",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/bear.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/bear.jpg"
+        },
+        {
+          "ans":"cat",
+          "ansPic":"cat.jpg",
+          "ansSound":"cat.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/cat.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/cat.jpg"
+        },
+        {
+          "ans":"monkey",
+          "ansPic":"monkey.png",
+          "ansSound":"monkey.mp3",
+          "isCorrect":"false",
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/monkey.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/Animals/monkey.png"
+        }
+
+      ]
+
+
+    }
+
   ]
 }
