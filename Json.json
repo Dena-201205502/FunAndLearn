@@ -109,31 +109,31 @@
       "questionTag": "red",
       "questionSoundFile": "red.mp3",
       "myCategory": "Colors",
-      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/red.mp3",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/red.mp3",
       "answers": [
         {
           "ans":"red",
           "ansPic":"red.jpg",
           "ansSound":"red.mp3",
           "isCorrect":"true",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/red.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/red.jpg"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/red.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/red.jpg"
         },
         {
           "ans":"blue",
           "ansPic":"blue.jpg",
           "ansSound":"blue.mp3",
           "isCorrect":"false",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/blue.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/blue.jpg"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/blue.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/blue.jpg"
         },
         {
           "ans":"yellow",
           "ansPic":"yellow.png",
           "ansSound":"yellow.mp3",
           "isCorrect":"false",
-          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/yellow.mp3",
-          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/colors/yellow.png"
+          "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/yellow.mp3",
+          "pictureFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/color/yellow.png"
         }
 
       ]
