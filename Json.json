@@ -39,6 +39,7 @@
       "questionTag": "Bus",
       "questionSoundFile": "bus.mp3",
       "myCategory": "Vehicles",
+      "soundFileUri":"https://raw.githubusercontent.com/Dena-201205502/FunAndLearn/master/media/vehicles/bus.mp3",
       "answers": [
         {
           "ans":"bus",
